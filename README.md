@@ -7,4 +7,7 @@ Nothing is running yet and I need a lot of help, I mean real HELP cause I didn't
  */
  And other IMPORTANT thing: I need to run it under Air 2.5 which mean Adobe Flash CS 5.5 or something similar that.
  
- Comments are appreciated, please contact me via Facebook: https://www.facebook.com/luis.n.enterprises.
+ Comments are appreciated, please contact me via Email: 
+ trongducvtc@yahoo.com
+ And Facebook: 
+ https://www.facebook.com/luis.n.enterprises.
