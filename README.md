@@ -1,4 +1,8 @@
 Fn64 - Flash Nintendo 64
+
+What is Fn64 ?
+Fn64 is an attempt at creating a Nintendo 64 emulator for the Flash platform.
+
 Fn64 is an attempt to create a Nintendo 64 emulator in Actionscript by Luis Duc Nguyen (LDN Enterprises). It's a port of the n64js, the Nintendo 64 emulator written in Javascript by Paul Holden. More information about the Javascript version can be found here: https://github.com/hulkholden/n64js
 
 Download at Sourceforge: https://sourceforge.net/projects/fn64/files/Fn64-source/
